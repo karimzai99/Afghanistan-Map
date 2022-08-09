@@ -1,0 +1,130 @@
+body{
+    background-color: rgb(0, 153, 173);
+}
+.svg_map{
+    width: 60%;
+    margin: auto;
+}
+
+.svg_map path{
+    stroke: black;
+    stroke-width: 2px;
+    transition: fill 0.3s;
+}
+.svg_map :hover{
+    stroke: white;
+    stroke-width: 3px;
+    transition: fill 0.2s;
+
+}
+
+#AFG1741{ /*BADGHIS*/
+    fill: rgb(92, 52, 52);
+}
+
+#AFG1742{ /*Hirat*/
+    fill: blue;
+}
+#AFG1743{ /*Bamiyan*/
+    fill: orange;
+}
+#AFG1744{
+    fill: aqua;
+}
+#AFG1745{
+    fill: tomato;
+}
+#AFG1746{
+    fill: red;
+}
+#AFG1747{
+    fill: green;
+}
+#AFG1748{
+    fill: rgb(117, 21, 21);
+}
+#AFG1749{
+    fill: rgb(58, 214, 253);
+}
+#AFG1750{
+    fill: rgb(255, 200, 127);
+}
+#AFG1751{
+    fill: rgb(34, 51, 51);
+}
+#AFG1752{
+    fill: rgb(205, 255, 213);
+}
+#AFG1753{
+    fill: rgb(50, 109, 81);
+}
+#AFG1754{
+    fill: rgb(168, 131, 75);
+}
+#AFG1755{
+    fill: rgb(247, 6, 227);
+}
+#AFG1756{
+    fill: rgb(255, 140, 0);
+}
+#AFG1757{
+    fill: rgb(15, 93, 124);
+}
+#AFG1758{
+    fill:rgb(37, 74, 99);
+}
+#AFG1759{
+    fill: rgb(100, 44, 44);
+}
+#AFG1760{
+    fill: rgb(17, 190, 89);
+}
+#AFG1761{
+    fill: rgb(14, 204, 147);
+}
+#AFG1762{
+    fill: rgb(43, 136, 43);
+}
+#AFG1763{
+    fill: rgb(134, 75, 125);
+}
+#AFG1764{
+    fill: rgb(52, 17, 109);
+}
+#AFG1765{
+    fill: rgb(4, 47, 75);
+}
+#AFG1766{
+    fill: rgb(32, 46, 5);
+}
+#AFG1767{
+    fill: rgb(29, 15, 66);
+}
+#AFG1768{
+    fill: rgb(56, 9, 17);
+}
+#AFG1769{
+    fill: rgb(42, 126, 98);
+}
+#AFG1770{
+    fill: rgb(236, 142, 200);
+}
+#AFG1771{
+    fill: rgb(255, 0, 128);
+}
+#AFG1772{
+    fill: rgb(204, 118, 139);
+}
+#AFG1773{
+    fill: rgb(36, 51, 46);
+}
+#AFG1774{
+    fill: rgb(160, 25, 165);
+}
+#AFG1775{
+    fill: rgb(33, 93, 204);
+}
+#AFG3413{
+    fill: darkgray;
+}
+
