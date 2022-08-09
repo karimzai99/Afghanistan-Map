@@ -1,6 +1,9 @@
 body{
     background-color: rgb(0, 153, 173);
 }
+#header{
+    text-align: center;
+}
 .svg_map{
     width: 60%;
     margin: auto;
